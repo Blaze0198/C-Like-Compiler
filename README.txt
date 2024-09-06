@@ -65,5 +65,4 @@ if (b > 3) {
 - Konda Reddy Balaji Reddy
 - Thanakanti Ganesh Madhav
 
-## Acknowledgments
-- Project guided and evaluated by Dr. Meena Belwal, Dept. of CSE.
+
